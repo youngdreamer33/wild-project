@@ -1,1 +1,1 @@
-#same_file.js
+#same_file
