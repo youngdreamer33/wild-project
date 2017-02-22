@@ -1,1 +1,2 @@
-#same_file.js
+
+Link  link
